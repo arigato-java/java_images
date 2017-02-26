@@ -22,6 +22,10 @@ a.redjavabo {
 	text-align:center;
 	margin:.5em;
 }
+a.redjavabo:active {
+	box-shadow:none;
+	background-image:linear-gradient(to top, #aa3030, #b50010);
+}
 /* Royal Blue Javabo */
 a.bluejavabo {
 	display:inline-block;
